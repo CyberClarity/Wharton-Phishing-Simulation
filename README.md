@@ -62,22 +62,6 @@ This repository documents an **ethical phishing simulation** mimicking a Wharton
 
 ---
 
-## 🖼️ Screenshots
-
-### 📧 Phishing Email
-![Phishing Email](https://github.com/CyberClarity/Wharton-Phishing-Simulation/raw/main/mail.jpeg)
-
-### 🌐 Fake Google Login Page (Landing Page)
-![Fake Google Login](https://github.com/CyberClarity/Wharton-Phishing-Simulation/raw/main/landing.jpeg)
-
-### 🗂️ Captured Credentials in Gophish
-![Captured Credentials](https://github.com/CyberClarity/Wharton-Phishing-Simulation/raw/main/credcap.jpeg)
-
-### 📊 Gophish Campaign Analysis Dashboard
-![Gophish Analysis](https://github.com/CyberClarity/Wharton-Phishing-Simulation/raw/main/analysis.jpeg)
-
----
-
 ## 🛠️ Tools Used
 
 - **Gophish**: for creating and managing the phishing campaign.
