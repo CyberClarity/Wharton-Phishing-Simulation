@@ -73,16 +73,16 @@ This phishing simulation aimed to assess the susceptibility of a target to a sop
 ## 🖼️ Screenshots
 
 ### 📧 Phishing Email
-![Phishing Email](https://github.com/CyberClarity/Wharton-Phishing-Simulation/raw/main/screenshots/mail.jpeg)
+![Phishing Email](screenshot/mail.jpeg)
 
 ### 🌐 Fake Google Login Page
-![Fake Google Login](https://github.com/CyberClarity/Wharton-Phishing-Simulation/raw/main/screenshots/landing.jpeg)
+![Fake Google Login](screenshot/landing.jpeg)
 
 ### 🗂️ Captured Credentials in Gophish
-![Captured Credentials](https://github.com/CyberClarity/Wharton-Phishing-Simulation/raw/main/screenshots/credcap.jpeg)
+![Captured Credentials](/screenshot/credcap.jpeg)
 
 ### 📊 Gophish Campaign Analysis Dashboard
-![Gophish Analysis](https://github.com/CyberClarity/Wharton-Phishing-Simulation/raw/main/screenshots/analysis.jpeg)
+![Gophish Analysis](screenshot/analysis.jpeg)
 
 ---
 
